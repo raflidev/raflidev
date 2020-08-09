@@ -1,5 +1,8 @@
-### Hi there 👋
+![](http://images6.fanpop.com/image/photos/38600000/Yuki-Eating-GIF-yuki-nagato-38663944-500-278.gif)
 
+Halo, saya Rafli Ramadhan rajin buat microblog di Instagramku [@raflidev](https://instagram.com/raflidev) microblog dengan konten web tutorial. Sekarang sedang fokus membuat platform kelas online di [@sekolahdigital](https://github.com/sekolahdigital) ada kanal youtubenya juga [Sekolah Digital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) dan saya akan jadi salah satu mentor disana.
+
+Senang buat podcast juga di [Kotak IT](https://kotakitpodcast.xyz/) dengan konten obrolan IT dan Internet Things dan berita teknologi yang menarik. kedepannya kotakit akan ada blognya dan semoga terrealisasi.
 <!--
 **raflidev/raflidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
