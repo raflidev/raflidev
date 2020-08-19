@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/raflidev/raflidev/master/image/github-profile.jpg)
 
+![Profile views](https://gpvc.arturio.dev/raflidev)
+
 Halo, saya Rafli Ramadhan rajin buat microblog di Instagramku [@raflidev](https://instagram.com/raflidev) microblog dengan konten web tutorial. Sekarang sedang fokus membuat platform kelas online di [@sekolahdigital](https://github.com/sekolahdigital) ada kanal youtubenya juga [Sekolah Digital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) dan saya akan jadi salah satu mentor disana.
 
 Senang buat podcast juga di [Kotak IT](https://kotakitpodcast.xyz/) dengan konten obrolan IT dan Internet Things dan berita teknologi yang menarik. kedepannya kotakit akan ada blognya dan semoga terrealisasi.
