@@ -2,9 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/raflidev)
 
-Halo, saya Rafli Ramadhan rajin buat microblog di Instagramku [@raflidev](https://instagram.com/raflidev) microblog dengan konten web tutorial. Sekarang sedang fokus membuat platform kelas online di [@sekolahdigital](https://github.com/sekolahdigital) ada kanal youtubenya juga [Sekolah Digital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) dan saya akan jadi salah satu mentor disana.
+Hello, I am Rafli Ramadhan, diligently creating a microblog on my Instagram [@raflidev](https://instagram.com/raflidev). Microblog with web tutorial content. Now, I'm focusing on creating an online classroom platform at [@sekolahdigital](https://github.com/sekolahdigital), there is a YouTube channel as well as a [Sekolah Digital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) and I will be one of the mentors there.
 
-Senang buat podcast juga di [Kotak IT](https://kotakitpodcast.xyz/) dengan konten obrolan IT dan Internet Things dan berita teknologi yang menarik. kedepannya kotakit akan ada blognya dan semoga terrealisasi.
+I am also happy to be able to make podcasts on [Kotak IT](https://kotakitpodcast.xyz/) with chat content and Internet Things and interesting technology news. In the future, kotakIT has a blog and hopefully it will be realized.
 <!--
 **raflidev/raflidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
