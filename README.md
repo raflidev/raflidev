@@ -5,6 +5,9 @@
 Hello, I am Rafli Ramadhan, diligently creating a microblog on my Instagram [@raflidev](https://instagram.com/raflidev). Microblog with web tutorial content. Now, I'm focusing on creating an online classroom platform at [@sekolahdigital](https://github.com/sekolahdigital), there is a YouTube channel as well as a [Sekolah Digital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) and I will be one of the mentors there.
 
 I am also happy to be able to make podcasts on [Kotak IT](https://kotakitpodcast.xyz/) with chat content and Internet Things and interesting technology news. In the future, kotakIT has a blog and hopefully it will be realized.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=raflidev&show_icons=true)
+
 <!--
 **raflidev/raflidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
