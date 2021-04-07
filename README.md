@@ -8,6 +8,11 @@ I am also happy to be able to make podcasts on [Kotak IT](https://kotakitpodcast
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflidev&show_icons=true)
 
+### Profile
+[raflidev.netlify.app](https://raflidev.netlify.app) | [medium](https://medium.com/kotak-it) | [instagram](https://www.instagram.com/raflidev/)
+
+[dribbble](https://dribbble.com/raflidev) | [dicoding](https://www.dicoding.com/users/raflidev) | [linkedin](https://www.linkedin.com/in/raflidev/)
+
 <!--
 **raflidev/raflidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
