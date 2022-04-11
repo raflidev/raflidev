@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/raflidev)
 
-Hello, I am Rafli Ramadhan, creating a microblog on my Instagram [@raflidev](https://instagram.com/raflidev). Microblog with web tutorial content. And I like to write tutorials on [Medium](http://medium.com/@raflidev). I also have podcast on [Kotak IT](https://kotakitpodcast.xyz/) I talk about nerd things and technology news in bahasa.
+Hello, I am Rafli Ramadhan, creating a microblog on my Instagram [@raflidev](https://instagram.com/raflidev). Microblog with web tutorial content. And I like to write tutorial text based on [Medium](http://medium.com/@raflidev). I also have podcast on [Kotak IT](https://kotakitpodcast.xyz/) I talk about nerd things and technology news in bahasa.
 
 If I have free time, I am always learning to complete my path to being a Fullstack Web Developer. I rarely make a video tutorial on [SekolahDigital](https://www.youtube.com/channel/UCgt-sNzkXmyuRtoitRUo60g) 
 
