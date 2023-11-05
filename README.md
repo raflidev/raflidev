@@ -2,7 +2,7 @@
 Hi, I am Rafli Ramadhan, a B.Sc. Computer Science student at Telkom University with a passion for continuous learning. I specialize in React JS but also have experience with Laravel for backend projects and Vanilla JavaScript. I have contributed to several React JS and Laravel projects. I have a keen interest in contributing to AI projects aimed at predicting outcomes.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)]](https://github-readme-stats.vercel.app/api/top-langs/?username=raflidev&layout=pie)
 
 
 ### Profile
