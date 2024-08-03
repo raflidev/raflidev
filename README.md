@@ -6,7 +6,7 @@ Hi, I am Rafli Ramadhan, a B.Sc. Computer Science student at Telkom University w
 
 
 ### Profile
-[raflidev.dev](https://raflidev.dev) | [medium](https://medium.com/kotak-it) | [instagram](https://www.instagram.com/raflidev/)
+[raflidev.my.id](https://raflidev.my.id) | [medium](https://medium.com/kotak-it) | [instagram](https://www.instagram.com/raflidev/)
 
 [dribbble](https://dribbble.com/raflidev) | [dicoding](https://www.dicoding.com/users/raflidev) | [linkedin](https://www.linkedin.com/in/raflidev/)
 
