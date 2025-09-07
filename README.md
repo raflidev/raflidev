@@ -1,12 +1,35 @@
-<!--![](https://raw.githubusercontent.com/raflidev/raflidev/master/image/github-profile.jpg) -->
-Hi, I am Rafli Ramadhan, a B.Sc. Computer Science student at Telkom University with a passion for continuous learning. I specialize in React JS but also have experience with Laravel for backend projects and Vanilla JavaScript. I have contributed to several React JS and Laravel projects. I have a keen interest in contributing to AI projects aimed at predicting outcomes.
+<!-- Optional Banner -->
+<!-- ![](https://raw.githubusercontent.com/raflidev/raflidev/master/image/github-profile.jpg) -->
 
+# Hi, I'm Rafli Ramadhan 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflidev&layout=pie)](https://github.com/raflidev)
+🎓 **B.Sc. Computer Science** at Telkom University  
+💻 **Front-End Web Developer** with a strong foundation in **React.js / Next.js** and solid experience in **Laravel** (backend) and **Vanilla JavaScript**.  
+🤖 Enthusiast in **AI/ML projects**, especially around predictive analytics and outcome forecasting.  
+🚀 Passionate about building clean, scalable, and user-friendly applications while continuously learning new technologies.  
 
+---
 
-### Profile
-[raflidev.my.id](https://raflidev.my.id) | [medium](https://medium.com/kotak-it) | [instagram](https://www.instagram.com/raflidev/)
+### 🔧 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, Radix UI, DaisyUI  
+- **Backend:** Laravel, PHP, Golang (Echo/Gin), Prisma  
+- **Database:** PostgreSQL, MySQL  
+- **Other Interests:** AI/ML (LLMs, RAG, NLP), Data Visualization, DevOps  
 
-[dribbble](https://dribbble.com/raflidev) | [dicoding](https://www.dicoding.com/users/raflidev) | [linkedin](https://www.linkedin.com/in/raflidev/)
+---
 
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflidev&hide_progress=true)](https://github.com/raflidev)
+
+---
+
+### 🌐 Find Me Around the Web
+- 🌍 [Portfolio](https://raflidev.my.id)  
+- ✍️ [Medium](https://medium.com/kotak-it)  
+- 📸 [Instagram](https://www.instagram.com/raflidev/)  
+- 🎨 [Dribbble](https://dribbble.com/raflidev)  
+- 📚 [Dicoding](https://www.dicoding.com/users/raflidev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raflidev/)  
+
+---
+✨ *Always open to collaboration on web development, AI, and open-source projects!*  
