@@ -47,11 +47,6 @@ I'm a Front-End Web Developer with a strong foundation in **React.js / Next.js**
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raflidev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflidev&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raflidev&theme=default&hide_border=true)](https://github.com/raflidev)
 
 ---
