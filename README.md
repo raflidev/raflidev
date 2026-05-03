@@ -8,9 +8,9 @@ I'm a Front-End Web Developer with a strong foundation in **React.js / Next.js**
 
 ## What I'm Currently Working On
 
-- Building AI-powered web applications with Next.js
-- Exploring Large Language Models (LLMs) and RAG architectures
-- Contributing to open-source projects
+- Learning DevOps and infrastructure engineering
+- Exploring Docker, CI/CD, and cloud deployment
+- Building real-world systems and automation projects
 
 ---
 
